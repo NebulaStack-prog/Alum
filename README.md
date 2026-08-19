@@ -2,11 +2,11 @@
 
 <img src="https://github.com/NebulaStack-prog/Alum/raw/main/Alum.png" width="200" height="230">
 
-**Status:** Completed
+* **Status:** Completed
 
-**ID:** NS-E001
+* **ID:** NS-E001
 
-**Collection:** NebulaStack-Labs
+* **Collection:** NebulaStack-Labs
 
 ## Overview
 
