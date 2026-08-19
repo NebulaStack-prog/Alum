@@ -2,9 +2,15 @@
 
 ## Overview
 
-This experiment was conducted as part of the **NebulaStack-Labs** crystal collection.
+**Status:** Completed
 
-The goal was to grow transparent crystals of **potassium alum (alum)** from an aqueous solution and document the resulting crystal growth.
+**ID:** NS-E001
+
+**Collection:** NebulaStack-Labs
+
+> This experiment was conducted as part of the **NebulaStack-Labs** crystal collection.
+
+> The goal was to grow transparent crystals of **potassium alum (alum)** from an aqueous solution and document the resulting crystal growth.
 
 **Compound:** Potassium alum
 
@@ -81,6 +87,4 @@ The resulting specimens were preserved as physical samples for the **NebulaStack
 
 Photographs of the crystals are included in this repository as experimental documentation.
 
-**Status:** Completed
-**Result:** Successful
-**Collection:** NebulaStack-Labs
+
