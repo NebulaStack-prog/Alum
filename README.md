@@ -73,11 +73,15 @@ The experiment successfully produced several visible potassium alum crystal spec
 
 The most notable characteristics of the resulting samples are:
 
-* transparent and translucent appearance;
-* clearly visible flat crystal faces;
-* formation of both individual crystals and aggregates;
-* relatively large crystal formations after only a few days;
-* additional growth during the secondary crystallization stage.
+* transparent and translucent appearance
+
+* clearly visible flat crystal faces
+
+* formation of both individual crystals and aggregates
+  
+* relatively large crystal formations after only a few days
+  
+* additional growth during the secondary crystallization stage
 
 The experiment demonstrated that potassium alum can be crystallized using a simple aqueous solution and controlled cooling, with further crystal growth possible using a suspended seed crystal.
 
