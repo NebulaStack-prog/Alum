@@ -53,6 +53,10 @@ Several specimens were selected for the collection, including:
 
 These samples were preserved as part of the NebulaStack-Labs collection.
 
+![](Alum1.jpg)
+
+![](Alum7.jpg)
+
 ### 4. Secondary crystal growth
 
 One additional crystal was selected and suspended in the same alum solution.
@@ -69,13 +73,9 @@ As a result, the NebulaStack-Labs collection was expanded with **two additional 
 
 The final samples are transparent to translucent and contain both individual crystal forms and larger crystal aggregates.
 
-![](Alum1.jpg)
-
 ![](Alum3.jpg)
 
 ![](Alum5.jpg)
-
-![](Alum7.jpg)
 
 ## Result
 
