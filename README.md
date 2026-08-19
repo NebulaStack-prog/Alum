@@ -7,10 +7,15 @@ This experiment was conducted as part of the **NebulaStack-Labs** crystal collec
 The goal was to grow transparent crystals of **potassium alum (alum)** from an aqueous solution and document the resulting crystal growth.
 
 **Compound:** Potassium alum
+
 **Formula:** KAl(SO₄)₂·12H₂O
+
 **Solvent:** Water
+
 **Initial temperature:** approximately 70 °C
+
 **Primary growth period:** 2 days
+
 **Secondary growth period:** 1 day
 
 ## Experimental Process
