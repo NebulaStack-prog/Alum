@@ -1,12 +1,12 @@
 # Alum Crystal Growth
 
-## Overview
-
 **Status:** Completed
 
 **ID:** NS-E001
 
 **Collection:** NebulaStack-Labs
+
+## Overview
 
 > This experiment was conducted as part of the **NebulaStack-Labs** crystal collection.
 
