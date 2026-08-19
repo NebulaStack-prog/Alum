@@ -1,5 +1,7 @@
 # Alum Crystal Growth
 
+<img src="https://github.com/NebulaStack-prog/Alum/raw/main/Alum.png" width="200" height="230">
+
 **Status:** Completed
 
 **ID:** NS-E001
@@ -67,6 +69,14 @@ As a result, the NebulaStack-Labs collection was expanded with **two additional 
 
 The final samples are transparent to translucent and contain both individual crystal forms and larger crystal aggregates.
 
+![](Alum1.jpg)
+
+![](Alum3.jpg)
+
+![](Alum5.jpg)
+
+![](Alum7.jpg)
+
 ## Result
 
 The experiment successfully produced several visible potassium alum crystal specimens.
@@ -85,10 +95,20 @@ The most notable characteristics of the resulting samples are:
 
 The experiment demonstrated that potassium alum can be crystallized using a simple aqueous solution and controlled cooling, with further crystal growth possible using a suspended seed crystal.
 
+![](Alum2.jpg)
+
+![](Alum4.jpg)
+
+![](Alum6.jpg)
+
+![](Alum8.jpg)
+
 ## Collection
 
 The resulting specimens were preserved as physical samples for the **NebulaStack-Labs** collection.
 
 Photographs of the crystals are included in this repository as experimental documentation.
 
+![](Alum9.jpg)
 
+© NESTIMS
